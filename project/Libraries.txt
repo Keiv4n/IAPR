@@ -1,0 +1,11 @@
+scikit image
+
+scikit learn
+
+OpenCv (cv2)
+
+SciPy
+
+NumPy
+
+Matplotlib
